@@ -1,10 +1,10 @@
 # Marinos Pierides
 
-I'm a **Computer Science student** at the **University of Portsmouth** with a strong interest in **software engineering**, **cloud computing**, and solving real-world problems through code.
+I'm a **Computer Science student** at the **University of Portsmouth** with a  interest in  **cloud computing**, and solving real-world problems through code as a first year student.
 
 I enjoy building practical projects that apply what I learn in class, and I'm actively developing my skills in:
 
-- Python,   
+- Python   
 - Algorithms and data structures  
 - Git/GitHub and agile workflows  
 - Cloud platforms like AWS  
